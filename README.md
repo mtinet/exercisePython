@@ -1,6 +1,7 @@
 # exercisePython
 
 - calculateAreaAndPerimeter.py - 반지름을 입력받아 넓이와 둘레를 계산하는 예제  
+- calculateOverChargePay.py - 근무한 시간에 따라 주당근무수당과 초과근무수당을 계산하는 예제  
 - calculateSumAndAvr.py - 국어, 수학, 영어 성적을 입력받아 합계와 평균을 계산하는 예제  
 - checkGrade.py - 점수를 입력받아 등급을 매기는 예제  
 - multiplication.py - 구구단을 실행하는 예제  
