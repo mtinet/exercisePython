@@ -4,6 +4,7 @@ score = {1:[80, 90,86],
          4:[70,69,65],
          5:[90,95,100]}
 
+print(score)
 for key, value in score.items() :
     print('%d번 -'%(key), '평균 : %.2f'%(sum(value) /len(value)))
     
