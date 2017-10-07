@@ -10,7 +10,7 @@
 - countDivisor.py - 약수의 갯수를 찾는 예제  
 - doubleInputOutputFunction.py - 두 개의 인수를 받 아두 개의 리턴을 해주는 함수(튜플로 만들어짐)  
 - expressMainFunction.py - 파이썬에서는 사용하지 않아도 되는 main()함수를 인위적으로 보여주는 방식의 프로그래밍 예제  
-- keywordArgument.py - 함수에서 정의되지 않은 키워드 인수를 받아 처리하는 예제  
+- keywordArgument.py - 함수에서 정의되지 않은 키워드 인수를 받아 처리하는 예제(dict로 만들어짐)  
 - maxInt.py - 다섯 개의 정수를 입력받아 가장 큰 값을 찾는 예제(if문 사용)  
 - maxInt2.py - 다섯 개의 정수를 입력받아 가장 큰 값을 찾는 예제(while문 사용)  
 - multiplication.py - 구구단을 실행하는 예제  
