@@ -1,4 +1,4 @@
-from pet import Dog, Cat
+from petClass import Dog, Cat
 
 a = Dog('Jack', 3)
 b = Dog('Daisy', 2)
