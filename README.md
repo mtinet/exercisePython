@@ -5,6 +5,7 @@
 - calculateAvrWithFunction.py - 함수를 만든 다음 국어,영어,수학 성적을 입력받아 평균을 구하는 예제  
 - calculateMaxMinAvr.py - 5개의 점수를 입력받아 최고점수, 최저점수, 평균을 계산하는 예제  
 - calculateOverChargePay.py - 근무한 시간에 따라 주당근무수당과 초과근무수당을 계산하는 예제  
+- calculateOverChargePay2.py - 함수를 이용해 근무한 시간에 따라 주당근무수당과 초과근무수당을 계산하는 예제  
 - calculateSumAndAvr.py - 국어, 수학, 영어 성적을 입력받아 합계와 평균을 계산하는 예제  
 - checkGrade.py - 점수를 입력받아 등급을 매기는 예제  
 - countDivisor.py - 약수의 갯수를 찾는 예제  
