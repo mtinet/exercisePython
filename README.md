@@ -11,6 +11,7 @@
 - checkGrade.py - 점수를 입력받아 등급을 매기는 예제  
 - classCircle.py - Circle클래스를 만들어서 사용해보는 예제  
 - classDog.py - Dog클래스를 만들어서 사용해보는 예제  
+- classPoint.py - 연산자중복을 이용한 Point클래스를 만들어서 사용해보는 예제  
 - countDivisor.py - 약수의 갯수를 찾는 예제  
 - doubleInputOutputFunction.py - 두 개의 인수를 받 아두 개의 리턴을 해주는 함수(튜플로 만들어짐)  
 - expressMainFunction.py - 파이썬에서는 사용하지 않아도 되는 main()함수를 인위적으로 보여주는 방식의 프로그래밍 예제  
