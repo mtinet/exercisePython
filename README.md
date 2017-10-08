@@ -9,7 +9,8 @@
 - calculateSumAndAvr.py - 국어, 수학, 영어 성적을 입력받아 합계와 평균을 계산하는 예제  
 - changeCtoF.py - 섭씨온도의 시작온도와 끝온도를 입력받아 화씨온도로 변환하는 예제  
 - checkGrade.py - 점수를 입력받아 등급을 매기는 예제  
-- classDog.py - Dog클래스를 만들어서 사용해보는 예제  
+- classCircle.py - Circle클래스를 만들어서 사용해보는 예제  
+- classDog.py - Dog클래스를 만들어서 사용해보는 예제  
 - countDivisor.py - 약수의 갯수를 찾는 예제  
 - doubleInputOutputFunction.py - 두 개의 인수를 받 아두 개의 리턴을 해주는 함수(튜플로 만들어짐)  
 - expressMainFunction.py - 파이썬에서는 사용하지 않아도 되는 main()함수를 인위적으로 보여주는 방식의 프로그래밍 예제  
