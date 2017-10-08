@@ -1,6 +1,6 @@
 # exercisePython
 ---
-이 예제들은 www.edwith.org 에 올라온서강대 이지선교수님의 강의를 보고 연습을 한 것입니다.
+이 예제들은 www.edwith.org 에 올라온 서강대 이지선교수님의 강의를 보고 연습을 한 것입니다.
 ---
 
 ## classAndModule - 클래스를 만들고 모듈로 불러오는 예제  
