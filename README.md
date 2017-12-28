@@ -24,6 +24,7 @@
 - maxInt2.py - 다섯 개의 정수를 입력받아 가장 큰 값을 찾는 예제(while문 사용)  
 - multiplication.py - 구구단을 실행하는 예제  
 - numberGame.py - 컴퓨터가 1~100까지의 숫자를 랜덤하게 뽑아낸 후 그 숫자를 맞추는 게임  
+- responsiveGUI.py - 창의크기에따라조정되는 GUI 예제  
 - useDivide.py - 나눗셈의 몫과 나머지를 구하는 방식을 통해 5자리 숫자를 각각의 숫자로 나누는 예제  
 - variableArgument.py - 함수에서 가변인수를 사용하는 방법에 대한 예제  
 - variableArgument2.py - 함수에서 가변인수를 사용하는 방법에 대한 예제(가변인수는 튜플로 인식됨)  
