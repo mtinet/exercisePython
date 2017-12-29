@@ -16,7 +16,6 @@
 - pet.py - petClass.py
 - petClass.py - pet.py에서 사용되는 클래스가 들어있는 파일  
 
----
 ## 일반예제  
 - calculateAreaAndPerimeter.py - 반지름을 입력받아 넓이와 둘레를 계산하는 예제  
 - calculateAvr.py - 학생 5명의 성적을 미리 입력받아 평균을 구하는 예제  
