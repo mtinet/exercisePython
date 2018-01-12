@@ -7,6 +7,7 @@
 - buttonAlert.py - 버튼을 누르면 경고문이 나오는 예제  
 - colorChooser.py - 버튼을 누르면 색상 선택기가 나오고 색상을 선택하면 콘솔에 해당 색상의 컬러값을 RGB와 Hex값으로 표현해주는 예제  
 - integratedGUI.py - 파이썬을 이용한 GUI 예제를 통합하여 보여주는 예제  
+- menubar.py - 메뉴바를 만들어 보는 예제  
 - responsiveGUI.py - 창의크기에 따라 조정되는 내용이 배치되는 GUI 예제  
 - scrollbar.py - 스크롤바를 제어할 수 있는  GUI 예제
 
